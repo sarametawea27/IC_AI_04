@@ -23,7 +23,4 @@ It generates human-like handwriting from digital input using **sequence modeling
 - Generative AI & Data Preprocessing  
 - Git & GitHub for version control
 
----
-
-## 📂 Project Structure
 
